@@ -110,7 +110,7 @@ const MYMEMORY_URL = 'https://api.mymemory.translated.net/get';
  * to raise the daily translation quota (per IP).
  * @type {string}
  */
-const MYMEMORY_EMAIL = '';
+const MYMEMORY_EMAIL = 'asondemita@gmail.com';
 
 /**
  * Convert a BCP-47 language tag to a MyMemory language code.
