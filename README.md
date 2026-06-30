@@ -1,4 +1,4 @@
-# 声 (Voice)
+# 会話 (Voice)
 [Xcratch](https://xcratch.github.io/) 用の音声拡張機能です。
 
 「**聞く**（音声認識）」「**訳す**（翻訳）」「**話す**（音声合成）」ができます。マイクの音声を聞き取って文字にし、日本語⇔英語に翻訳し、文字をいろいろな**キャラ声**（ふつう・ねずみ・ロボット・おばけ）で読み上げられます。声は**しゃべる速さ**と**声の高さ**の倍率でチューニングできます。
@@ -61,7 +61,7 @@
 
 ## ✨ この拡張機能でできること
 
-[サンプルプロジェクト](https://xcratch.github.io/editor/#https://asondemita.github.io/xcx-voice/projects/example.sb3) を開くと、「声(Voice)」拡張機能でできることを確認できます。
+[サンプルプロジェクト](https://xcratch.github.io/editor/#https://asondemita.github.io/xcx-voice/projects/example.sb3) を開くと、「会話(Voice)」拡張機能でできることを確認できます。
 <iframe src="https://xcratch.github.io/editor/player#https://asondemita.github.io/xcx-voice/projects/example.sb3" width="540px" height="460px"></iframe>
 
 
