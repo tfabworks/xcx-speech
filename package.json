@@ -1,6 +1,6 @@
 {
   "name": "xcx-voice",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Voice extension for Xcratch (speech recognition + speech synthesis)",
   "extensionId": "voice",
   "scripts": {
